@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangkeys" alt="dangkeys" /></a> </p>
 
-- 🔭 I’m currently working on **my upcoming steam game**
+- 🔭 I’m currently working on **SuperChef**
 
-- 🌱 I’m currently learning **python, HTML, CSS, JavaScript, SQL, Unreal, godot, blender, Aesprite**
+- 🌱 I’m currently learning **Unity Dots,VR, Profiler, Game Optimization, Blender, Aesprite**
 
-- 🤝 I’m looking for help with **publishers**
+- 🤝 I’m looking for an **internship**
 
-- 📫 How to reach me **TajdangZaa@gmail.com**
+- 📫 How to reach me **Taj.Dangkomen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
